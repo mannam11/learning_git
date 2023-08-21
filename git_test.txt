@@ -1,0 +1,2 @@
+#learing the basics of the git
+#adding the 2nd line
