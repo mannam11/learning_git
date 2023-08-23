@@ -10,3 +10,5 @@ Hello World repository for Git tutorial
 >>>>>>> first_test
 
 #adding this line after pushing the repo to github
+
+# for testing the pull command on git bash
