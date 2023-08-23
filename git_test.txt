@@ -1,2 +1,3 @@
 #learing the basics of the git
 #adding the 2nd line
+#adding the text after creating the first new branch in github
