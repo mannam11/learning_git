@@ -8,3 +8,5 @@ Hello World repository for Git tutorial
 =======
 #adding a new line after creating the first branch
 >>>>>>> first_test
+
+#adding this line after pushing the repo to github
