@@ -3,6 +3,8 @@ Hello World repository for Git tutorial
 
 #adding some text to the file
 
-#emergency-fix branch
+<<<<<<< HEAD
 
-#to check the branch merging
+=======
+#adding a new line after creating the first branch
+>>>>>>> first_test
